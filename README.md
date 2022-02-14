@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Tribute Page
 
-> "Portfolio-setup-and-mobile-version-skeleton".
-"Added About myself section, contact me and Works section page".
+> "Tribute Page".
+"Added linters.yml , MIT License and package.json".
 
 
 ## Built With
